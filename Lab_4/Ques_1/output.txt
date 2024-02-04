@@ -1,0 +1,1 @@
+The number of inversions are 2498153645
