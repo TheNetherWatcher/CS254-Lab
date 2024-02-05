@@ -78,7 +78,7 @@ public:
 
 int main()
 {
-    ifstream inputFile("../input.txt");
+    ifstream inputFile("../in_2.txt");
 
     if (!inputFile.is_open())
     {
