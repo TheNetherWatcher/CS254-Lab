@@ -25,4 +25,4 @@ int main() {
     return 0;
 }
 
-// T.C. - O(nw)
+// T.C. - O(n*w)

@@ -24,7 +24,7 @@ int main()
     for (int i = 0; i < n; i++)
     {
         int value, weight;
-        cin >> value >> weight;
+        cin >> weight >> value;
         items.emplace_back(value, weight);
     }
 
